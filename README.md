@@ -1,4 +1,4 @@
-👋 Hi, I’m @r0han01
+**👋 Hi, I’m @r0han01**
 
 👀 I’m interested in data science real-time projects, stock market (financial knowledge), and web designing.
 
