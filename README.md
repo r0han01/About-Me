@@ -10,3 +10,4 @@
 r0han01/r0han01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![footer-bg](https://github.com/r0han01/r0han01/assets/168735672/a81f07ab-cc08-4c4c-947e-9ed4a90a71aa)
