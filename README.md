@@ -1,11 +1,17 @@
 👋 Hi, I’m @r0han01
+
 👀 I’m interested in data science real-time projects, stock market (financial knowledge), and web designing.
+
 🌱 I’m currently learning data science at the University of Memphis.
+
 💞️ I’m looking to collaborate on real-time, heavy-duty projects in various industries.
+
 <a href="mailto:queries@rkatkam.com"><img src="https://img.shields.io/badge/Contact-queries@rkatkam.com-blue" alt="Contact"></a>
 <a href="link_to_your_linkedin_profile"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue" alt="Connect on LinkedIn"></a>
 <a href="link_to_your_portfolio"><img src="https://img.shields.io/badge/-Portfolio-green" alt="Portfolio"></a>
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I once designed a website for a local charity organization that increased their online donations by 50%!
 
 
