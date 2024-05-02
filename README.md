@@ -9,11 +9,11 @@
 <a href="mailto:queries@rkatkam.com"><img src="https://img.shields.io/badge/Contact-queries@rkatkam.com-blue" alt="Contact"></a>
 <a href="link_to_your_linkedin_profile"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue" alt="Connect on LinkedIn"></a>
 <a href="link_to_your_portfolio"><img src="https://img.shields.io/badge/-Portfolio-green" alt="Portfolio"></a>
+<a href="link_to_your_website"><img src="https://img.shields.io/badge/Check%20out%20my%20website-orange" alt="Check out my website"></a>
 
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I once designed a website for a local charity organization that increased their online donations by 50%!
-
 
 <!---
 r0han01/r0han01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
